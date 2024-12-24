@@ -14,7 +14,7 @@ body{
 	border-radius: 10px;
 	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 	text-align: center;
-	width: 400px;
+
 }
 
 h3{
@@ -27,7 +27,7 @@ h3{
 }
 
 textarea{
-	widows: 100%;
+	width: 75%;
 	height: 120px;
 	border: 2px solid #ddd;
 	border-radius: 8px;
